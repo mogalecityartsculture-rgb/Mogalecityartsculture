@@ -1,0 +1,2 @@
+# Mogalecityartsculture
+I WANT TO BUILD A WEBSITE FOR OUR ORGANISATION .ITS CALLED MOGALE CITY ARTS AND CULTURE FORUM.    Give me the full html ,css ans JS code all in one , add any features i need .   THE DETAILS AND SAMPLE STRUCTURE OF HOW WE WANT THE WEBSITE TO BE STRUCTURED .
